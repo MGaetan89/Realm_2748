@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Realm_2748</string>
+	<string name="trigger_request">Trigger Request</string>
+	<string name="waiting">Waiting for an event…\n</string>
+</resources>
